@@ -6,7 +6,7 @@ Golden rule: each must end with a **live deployed link + a GitHub README with sc
 ---
 
 # PRD 1 — "AskYourDocs": RAG Document Q&A Web App  ⭐ TOP PRIORITY
-
+   
 ### 1. Problem & Value
 People waste time hunting through long PDFs (manuals, papers, contracts, notes). AskYourDocs lets a user upload documents and ask questions in plain English, getting answers **with citations** to the source passage. This is the most in-demand AI pattern (RAG) — and built as a full web app, it proves you can do **AI + frontend + backend** together.
 
