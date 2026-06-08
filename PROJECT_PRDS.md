@@ -1,6 +1,6 @@
 # Project Build Plans (PRDs) — Vaibhav Singh  
      
-Three AI projects, specced for **portfolio + job impact**. Build priority: **1 → 2 → 3**. 
+Three AI projects, specced for **portfolio + job impact**. Build priority: **1 → 2 → 3**.  
 Golden rule: each must end with a **live deployed link + a GitHub README with screenshots**. A deployed product beats a notebook every time.   
    
 --- 
