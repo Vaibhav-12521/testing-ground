@@ -1,6 +1,3 @@
-
-
-
 # LinkedIn Profile Upgrade — Vaibhav Singh
 **Goal:** Maximize profile optimization score, recruiter search visibility, and post reach.
 **Source:** CV (Vaibhav Singh.pdf) + current LinkedIn (Profile.pdf) + GitHub (Vaibhav-12521).
