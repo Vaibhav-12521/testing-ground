@@ -7,7 +7,7 @@
 
 ## 0) Current vs Upgraded - Optimization Score
 
-| Area | Current | After Upgrade | Why |
+| Area | Current | After Upgrade | Why | 
 |---|---|---|---|
 | **Headline** (keywords) | 7/10 | 10/10 | Adds AI/LLM + "Open to work" + more searchable terms |
 | **About / Summary** | 5/10 | 10/10 | Weak hook, wall of text, no CTA → restructured with keywords + CTA |
