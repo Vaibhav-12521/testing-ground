@@ -31,7 +31,7 @@ Full Stack Developer | Next.js · React · TypeScript · Node.js · Supabase/Pos
 ```
 
 **Alternative (more outcome-focused):**
-```
+``` 
 Full Stack Developer (React · Next.js · Node.js · TypeScript) | I design, build & deploy production SaaS end-to-end | AI/LLM Integration | Building Medstocksy | BCA 2026 | Open to Work
 ```
 
