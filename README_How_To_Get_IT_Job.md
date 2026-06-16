@@ -28,7 +28,7 @@ Headline role: **Full-Stack Developer** (decided with you). Hackathon result cor
 
 ATS software parses your CV into a database and ranks it against the job description by keyword match and structure. This CV is built for that:
 
-- **Single column, no tables/text-boxes/graphics in the body** — multi-column and image-based CVs get garbled by parsers. (Your old CV4 used a skills *table* and FontAwesome icons — risky. Fixed here.)
+- **Single column, no tables/text-boxes/graphics in the body** - multi-column and image-based CVs get garbled by parsers. (Your old CV4 used a skills *table* and FontAwesome icons — risky. Fixed here.)
 - **Standard section headings** the parser recognizes: *Professional Summary, Technical Skills, Professional Experience, Education*.
 - **Keywords that match real job posts**: React, Node.js, JavaScript, TypeScript, REST API, PostgreSQL, MySQL, OAuth, JWT, Git, CI/CD, Agile. Added **Node.js + Express** explicitly so backend/Node filters catch you.
 - **Selectable text, standard fonts**, no headers/footers holding contact info (some ATS ignore those zones).
