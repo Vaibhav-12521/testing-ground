@@ -109,7 +109,7 @@ Short, specific, links the proof. Send 5–10/day to recruiters at companies you
 - [ ] Day 2: Clean up GitHub (pin repos, add READMEs, fix project links).
 - [ ] Day 3: Update LinkedIn headline to "Full-Stack Developer | React · Node.js · TypeScript", set Open to Work, add portfolio link.
 - [ ] Day 4-5: Build the small Node.js + Express + PostgreSQL API; push it.
-- [ ] Day 6–7: Apply to 10+ roles/day across LinkedIn, Naukri, Wellfound, Internshala; DM recruiters; start daily LeetCode.
+- [ ] Day 6-7: Apply to 10+ roles/day across LinkedIn, Naukri, Wellfound, Internshala; DM recruiters; start daily LeetCode.
 
 ---
 
