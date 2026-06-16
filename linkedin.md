@@ -108,7 +108,7 @@ Stack: Next.js 14 · Prisma · Supabase · Tailwind CSS · Vercel
 • Wrote modular, documented Python with REST-style backends; managed branch-based version control and per-project READMEs on GitHub.
 • Iterated through a prototype → mentor-feedback → polished-demo cycle under sprint deadlines.
 Stack: Python · scikit-learn · OpenCV · NLP · REST · Git
-```
+``` 
 ⚠️ **Fix the date inconsistency:** your LinkedIn says *June 2025 – July 2025*, your CV says *2024*. Pick the correct one and make both documents match.
 
 ### Gen AI Exchange Program — Google
