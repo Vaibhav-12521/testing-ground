@@ -12,7 +12,7 @@ Full Stack Developer (Software Developer) skilled in JavaScript, TypeScript, Rea
 
 ---
 
-## TECHNICAL SKILLS
+## TECHNICAL SKILLS 
 
 - **Languages:** JavaScript, TypeScript, Python, PHP, SQL, Java, C, C++, C#
 - **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, ShadCN/UI, Responsive Design, Web Accessibility
