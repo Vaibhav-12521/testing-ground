@@ -1,4 +1,4 @@
-# CV5 — Your ATS-Optimized CV + Job-Hunt Playbook
+# CV5 - Your ATS-Optimized CV + Job-Hunt Playbook
 
 Headline role: **Full-Stack Developer** (decided with you). Hackathon result corrected to **Runner-up** (matches your portfolio — never risk a "Winner" claim that fails a reference check).
 
