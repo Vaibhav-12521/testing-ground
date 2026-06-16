@@ -57,7 +57,7 @@ Full Stack Developer (Software Developer) skilled in JavaScript, TypeScript, Rea
 - Built a full-stack subscription platform combining golf score tracking with charitable giving: two subscription tiers (monthly / yearly), charity selection, score entry, and a recurring prize-draw engine. 
 - Integrated Stripe for PCI-compliant recurring payments and Supabase for authentication, user dashboards, and account management; deployed on Vercel over HTTPS.
 
-### Notice Board — Full-CRUD Next.js Application (2026) 
+### Notice Board — Full-CRUD Next.js Application (2026)  
 *Next.js 14, Prisma ORM, Supabase (PostgreSQL), Tailwind CSS, Vercel*
 - Built a full CRUD notice board with server-side validation, search and filtering by category and priority, urgent-notice prioritization, and image previews; used Incremental Static Regeneration (ISR) for fast loads. Developed as a web-development internship assignment (Reno Platforms).
 
