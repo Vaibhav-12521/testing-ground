@@ -14,7 +14,7 @@ Headline role: **Full-Stack Developer** (decided with you). Hackathon result cor
 
 ### How to generate the PDF (no LaTeX installed on your PC)
 1. Go to https://overleaf.com → New Project → Upload Project → upload `Vaibhav_Singh_FullStack_CV.tex`.
-2. Click **Recompile**. Download the PDF.
+2. Click **Recompile**. Download the PDF. 
 3. Name the file exactly: `Vaibhav_Singh_Full_Stack_Developer.pdf` (recruiters search by filename).
 
 ### How to make the .docx (some ATS prefer Word)
