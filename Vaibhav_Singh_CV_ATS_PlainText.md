@@ -51,7 +51,7 @@ Full Stack Developer (Software Developer) skilled in JavaScript, TypeScript, Rea
 ---
 
 ## KEY PROJECTS
-
+ 
 ### Birdie & Cause — Subscription SaaS with Payments (2025)
 *React, TypeScript, Supabase, Stripe, Tailwind CSS, Vercel* 
 - Built a full-stack subscription platform combining golf score tracking with charitable giving: two subscription tiers (monthly / yearly), charity selection, score entry, and a recurring prize-draw engine. 
