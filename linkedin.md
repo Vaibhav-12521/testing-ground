@@ -2,7 +2,7 @@
 **Goal:** Maximize profile optimization score, recruiter search visibility, and post reach.
 **Source:** CV (Vaibhav Singh.pdf) + current LinkedIn (Profile.pdf) + GitHub (Vaibhav-12521).
 **How to use:** Copy each section directly into the matching LinkedIn field. Sections marked ⚠️ need a small decision from you.
-
+ 
 ---
 
 ## 0) Current vs Upgraded — Optimization Score
