@@ -45,7 +45,7 @@ Don't send the same CV everywhere. For each job:
 2. In your CV's **Professional Summary** + **Technical Skills**, make sure those exact words appear (only if true).
    - Applying for a **React/Frontend** role? Move React, Tailwind, Responsive Design to the front of the summary.
    - Applying for a **Node.js/Backend** role? Lead with Node.js, Express, REST API, PostgreSQL.
-3. Rename the file to match the title in the post.
+3. Rename the file to match the title in the post. 
 
 This single habit beats a "perfect" generic CV.
 
