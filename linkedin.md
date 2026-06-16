@@ -66,7 +66,7 @@ I'm open to Full Stack / Frontend / Backend / SDE roles. If you're hiring someon
 
 📩 singh12521vaibhav@gmail.com
 🌐 Portfolio: vaibhav1.me
-💻 GitHub: github.com/Vaibhav-12521
+💻 GitHub: github.com/Vaibhav-12521 
 ```
 
 ---
