@@ -76,7 +76,7 @@ A GitHub with live, documented projects + your live sites (medstocksy.in, luckno
 **Apply daily, track in a sheet.** Volume + tailoring wins.
 
 - **LinkedIn** - set "Open to Work", apply to "Easy Apply" full-stack/React/Node roles, and **DM the recruiter or hiring manager** after applying with a 3-line note + portfolio link. This is where most replies come from.
-- **Naukri.com** — upload the `.docx`, keyword-rich; Indian recruiters search here heavily.
+- **Naukri.com** - upload the `.docx`, keyword-rich; Indian recruiters search here heavily.
 - **Internshala** — fresher full-stack / web dev roles & internships that convert to full-time.
 - **Wellfound (AngelList)** — startups, which value shipped products over degrees (your strength).
 - **Cutshort, Hirist, Instahyre** — India dev-focused boards.
