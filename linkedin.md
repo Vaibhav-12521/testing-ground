@@ -4,7 +4,7 @@
 **How to use:** Copy each section directly into the matching LinkedIn field. Sections marked ⚠️ need a small decision from you.
  
 ---
- 
+  
 ## 0) Current vs Upgraded - Optimization Score
 
 | Area | Current | After Upgrade | Why |
