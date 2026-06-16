@@ -5,7 +5,7 @@
  
 ---
 
-## 0) Current vs Upgraded — Optimization Score
+## 0) Current vs Upgraded - Optimization Score
 
 | Area | Current | After Upgrade | Why |
 |---|---|---|---|
