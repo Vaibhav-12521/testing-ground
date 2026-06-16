@@ -44,7 +44,7 @@ Full Stack Developer (Software Developer) skilled in JavaScript, TypeScript, Rea
 - Iterated under sprint deadlines (prototype → feedback → polished demo), practicing the delivery discipline used in production teams.
 
 ### Selected Participant, Generative AI Exchange Program — Google
-*2025*
+*2025* 
 
 - Selected into Google's structured GenAI program covering prompt engineering, RAG patterns, evaluation techniques, and Vertex AI workflows; applied learnings directly into shipped features.
 
