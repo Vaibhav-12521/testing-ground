@@ -6,7 +6,7 @@ Portfolio: https://vaibhav1.me/ | LinkedIn: https://linkedin.com/in/vaibhavsingh
  
 ---  
 
-## PROFESSIONAL SUMMARY  
+## PROFESSIONAL SUMMARY   
 
 Full Stack Developer (Software Developer) skilled in JavaScript, TypeScript, React.js / Next.js, and Node.js / Express.js, who has independently designed, built, and deployed two live production web applications end-to-end. Hands-on with REST API development, JWT/OAuth 2.0 authentication, relational databases (PostgreSQL, MySQL), and real-time features over WebSockets. Experienced across the full software development life cycle (SDLC) — requirements, schema design, frontend and backend development, testing, and deployment (Git, CI/CD, Vercel) in an Agile workflow. Strong problem-solving and communication skills. BCA graduate (2026), available immediately.
 
