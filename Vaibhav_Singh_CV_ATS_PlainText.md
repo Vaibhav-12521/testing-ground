@@ -3,7 +3,7 @@
 
 Lucknow, India | +91 8957784793 | singh12521vaibhav@gmail.com
 Portfolio: https://vaibhav1.me/ | LinkedIn: https://linkedin.com/in/vaibhavsingh125 | GitHub: https://github.com/Vaibhav-12521
-
+ 
 ---
 
 ## PROFESSIONAL SUMMARY
